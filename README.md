@@ -35,4 +35,3 @@ The labs cover fundamental concepts and practical skills in computer architectur
 - GDB debugger  
 - Midnight Commander (optional for file navigation)  
 
-**Stelin**
